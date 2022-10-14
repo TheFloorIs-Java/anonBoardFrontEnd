@@ -1,0 +1,32 @@
+table {
+    width: 100%;
+  }
+  
+  .mat-form-field {
+    font-size: 14px;
+    width: 100%;
+    color: white;
+  }
+  
+  td, th {
+    width: 25%;
+  }
+  
+  .cat-list{
+    position: relative;
+    width: 45%;
+    height: 600px;
+    margin: auto;
+    top: 30px;
+    padding: 10px;
+  }
+  
+  .list{
+    max-height: 600px;
+    overflow-y: scroll;
+ 
+  }
+  .header{
+    font-size: larger;
+  }
+  
